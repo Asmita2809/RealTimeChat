@@ -1,0 +1,3 @@
+assuming there will be lwss that 10000 people
+and rate limit of 1 message/30 sec
+so it is fine to create a simple web socket server.
